@@ -1,2 +1,2 @@
 # Zubair-Khan
-This is demo for Git & Github class
+This is demo for Git & Github class.
